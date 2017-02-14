@@ -15,7 +15,7 @@
 		- correct and incorrect answers (i suppose that correct = 1 is correct answer and there is no any undefined states, so only 0 and 1, but i`m not sure about it cause im not that familiar with the business domain). 
 		- progress by subject (sum by progress property, probably here should be more complex logic, but for this project i suppose its enough).
 		- correct answers by domain.
-	3) Top students allowes to get users with the biggest progress sum and with the smallest one. You need to put subject there cause it looks senseless to calculate top by all subjects. 
+	3) Top students allowes to get users with the biggest progress sum and with the smallest one. You need to put subject there cause it looks senseless to calculate top by all subjects.  (You could use 'Spelling' to check actual data).
 Instructions:
 	You need to open project, build it and launch fron visual studio. It uses db from app_data.
 Credentials:
